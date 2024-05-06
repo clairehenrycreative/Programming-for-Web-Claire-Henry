@@ -1,0 +1,14 @@
+* {
+    align-content: center;
+    text-align: center;
+}
+
+body {
+    background: linear-gradient(0deg, rgba(138,109,217,1) 0%, rgba(210,156,229,1) 70%);
+}
+
+h1, h2, h3, p {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+}
